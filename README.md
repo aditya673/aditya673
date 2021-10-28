@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @aditya673
-- 👀 I’m interested in mathematics
-- 🌱 I’m currently learning set theory
 - you can send an email to adiadityaintegrator@gmail.com
 
 <!---
